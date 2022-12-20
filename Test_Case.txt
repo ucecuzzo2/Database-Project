@@ -55,11 +55,11 @@ MENU: ----
 5 Save the table to a file
 6 Quit
 1
-What is the key to add? 6          
-What is the client name? AJ
-What class do you want to input? Swift      
-What is the class number? 411
-Added the element in slot 6
+What is the key to add? 11   
+What is the client name? Jake 
+What class do you want to input? Swift 
+What is the class number? 561
+Added the element in slot 11
 MENU: ---- 
 1 Add an element
 2 Find an element
@@ -68,11 +68,48 @@ MENU: ----
 5 Save the table to a file
 6 Quit
 1
-What is the key to add? 7     
-What is the client name? Jack 
+What is the key to add? 12
+What is the client name? Yoli 
 What class do you want to input? Java
-What is the class number? 151
-Added the element in slot 7
+What is the class number? 115
+Added the element in slot 12
+MENU: ---- 
+1 Add an element
+2 Find an element
+3 Delete an element
+4 Display the table
+5 Save the table to a file
+6 Quit
+1
+What is the key to add? 13   
+What is the client name? David
+What class do you want to input? C#
+What is the class number? 120
+Added the element in slot 13
+MENU: ---- 
+1 Add an element
+2 Find an element
+3 Delete an element
+4 Display the table
+5 Save the table to a file
+6 Quit
+2
+What is the key to find? 13
+Found this:
+13 David C# 120
+
+MENU: ---- 
+1 Add an element
+2 Find an element
+3 Delete an element
+4 Display the table
+5 Save the table to a file
+6 Quit
+2
+What is the key to find? 1 
+Found this:
+1 Gerald Architecture 351
+
 MENU: ---- 
 1 Add an element
 2 Find an element
@@ -92,16 +129,80 @@ The current contents are:
 4:[4 Ahmed Assembly 231
  ]
 5:[empty]
-6:[6 AJ Swift 411
- ]
-7:[7 Jack Java 151
- ]
+6:[empty]
+7:[empty]
 8:[empty]
 9:[empty]
 10:[10 Bob Game_Development 441
  ]
-11:[empty]
-12:[empty]
+11:[11 Jake Swift 561
+ ]
+12:[12 Yoli Java 115
+ ]
+13:[13 David C# 120
+ ]
+14:[empty]
+15:[empty]
+16:[empty]
+17:[empty]
+18:[empty]
+19:[empty]
+20:[empty]
+21:[empty]
+22:[empty]
+23:[empty]
+24:[empty]
+25:[empty]
+26:[empty]
+27:[empty]
+28:[empty]
+29:[empty]
+30:[empty]
+31:[empty]
+32:[empty]
+33:[empty]
+34:[empty]
+35:[empty]
+36:[empty]
+MENU: ---- 
+1 Add an element
+2 Find an element
+3 Delete an element
+4 Display the table
+5 Save the table to a file
+6 Quit
+3
+What is the key to find? 13
+Found it and deleted it from slot:13
+MENU: ---- 
+1 Add an element
+2 Find an element
+3 Delete an element
+4 Display the table
+5 Save the table to a file
+6 Quit
+4
+The current contents are: 
+0:[empty]
+1:[1 Gerald Architecture 351
+ ]
+2:[2 Jake C++ 111
+ ]
+3:[3 Drake Intro_JavaScript 421
+ ]
+4:[4 Ahmed Assembly 231
+ ]
+5:[empty]
+6:[empty]
+7:[empty]
+8:[empty]
+9:[empty]
+10:[10 Bob Game_Development 441
+ ]
+11:[11 Jake Swift 561
+ ]
+12:[12 Yoli Java 115
+ ]
 13:[empty]
 14:[empty]
 15:[empty]
@@ -133,12 +234,9 @@ MENU: ----
 4 Display the table
 5 Save the table to a file
 6 Quit
-1
-What is the key to add? 36
-What is the client name? Daniel 
-What class do you want to input? F#           
-What is the class number? 110
-Added the element in slot 36
+3
+What is the key to find? 1
+Found it and deleted it from slot:1
 MENU: ---- 
 1 Add an element
 2 Find an element
@@ -149,8 +247,7 @@ MENU: ----
 4
 The current contents are: 
 0:[empty]
-1:[1 Gerald Architecture 351
- ]
+1:[empty]
 2:[2 Jake C++ 111
  ]
 3:[3 Drake Intro_JavaScript 421
@@ -158,16 +255,16 @@ The current contents are:
 4:[4 Ahmed Assembly 231
  ]
 5:[empty]
-6:[6 AJ Swift 411
- ]
-7:[7 Jack Java 151
- ]
+6:[empty]
+7:[empty]
 8:[empty]
 9:[empty]
 10:[10 Bob Game_Development 441
  ]
-11:[empty]
-12:[empty]
+11:[11 Jake Swift 561
+ ]
+12:[12 Yoli Java 115
+ ]
 13:[empty]
 14:[empty]
 15:[empty]
@@ -191,8 +288,7 @@ The current contents are:
 33:[empty]
 34:[empty]
 35:[empty]
-36:[36 Daniel F# 110
- ]
+36:[empty]
 MENU: ---- 
 1 Add an element
 2 Find an element
