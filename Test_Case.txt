@@ -1,0 +1,214 @@
+ make -s
+ ./main
+This app is used for college students to input classes into a school database for the computer science department. This allows users to store there full name, course number, and class name.
+
+
+What is the input file? (.txt file)input.txt
+0:[empty]
+1:[1 Gerald Architecture 351
+ ]
+2:[2 Jake C++ 111
+ ]
+3:[3 Drake Intro_JavaScript 421
+ ]
+4:[4 Ahmed Assembly 231
+ ]
+5:[empty]
+6:[empty]
+7:[empty]
+8:[empty]
+9:[empty]
+10:[10 Bob Game_Development 441
+ ]
+11:[empty]
+12:[empty]
+13:[empty]
+14:[empty]
+15:[empty]
+16:[empty]
+17:[empty]
+18:[empty]
+19:[empty]
+20:[empty]
+21:[empty]
+22:[empty]
+23:[empty]
+24:[empty]
+25:[empty]
+26:[empty]
+27:[empty]
+28:[empty]
+29:[empty]
+30:[empty]
+31:[empty]
+32:[empty]
+33:[empty]
+34:[empty]
+35:[empty]
+36:[empty]
+
+MENU: ---- 
+1 Add an element
+2 Find an element
+3 Delete an element
+4 Display the table
+5 Save the table to a file
+6 Quit
+1
+What is the key to add? 6          
+What is the client name? AJ
+What class do you want to input? Swift      
+What is the class number? 411
+Added the element in slot 6
+MENU: ---- 
+1 Add an element
+2 Find an element
+3 Delete an element
+4 Display the table
+5 Save the table to a file
+6 Quit
+1
+What is the key to add? 7     
+What is the client name? Jack 
+What class do you want to input? Java
+What is the class number? 151
+Added the element in slot 7
+MENU: ---- 
+1 Add an element
+2 Find an element
+3 Delete an element
+4 Display the table
+5 Save the table to a file
+6 Quit
+4
+The current contents are: 
+0:[empty]
+1:[1 Gerald Architecture 351
+ ]
+2:[2 Jake C++ 111
+ ]
+3:[3 Drake Intro_JavaScript 421
+ ]
+4:[4 Ahmed Assembly 231
+ ]
+5:[empty]
+6:[6 AJ Swift 411
+ ]
+7:[7 Jack Java 151
+ ]
+8:[empty]
+9:[empty]
+10:[10 Bob Game_Development 441
+ ]
+11:[empty]
+12:[empty]
+13:[empty]
+14:[empty]
+15:[empty]
+16:[empty]
+17:[empty]
+18:[empty]
+19:[empty]
+20:[empty]
+21:[empty]
+22:[empty]
+23:[empty]
+24:[empty]
+25:[empty]
+26:[empty]
+27:[empty]
+28:[empty]
+29:[empty]
+30:[empty]
+31:[empty]
+32:[empty]
+33:[empty]
+34:[empty]
+35:[empty]
+36:[empty]
+MENU: ---- 
+1 Add an element
+2 Find an element
+3 Delete an element
+4 Display the table
+5 Save the table to a file
+6 Quit
+1
+What is the key to add? 36
+What is the client name? Daniel 
+What class do you want to input? F#           
+What is the class number? 110
+Added the element in slot 36
+MENU: ---- 
+1 Add an element
+2 Find an element
+3 Delete an element
+4 Display the table
+5 Save the table to a file
+6 Quit
+4
+The current contents are: 
+0:[empty]
+1:[1 Gerald Architecture 351
+ ]
+2:[2 Jake C++ 111
+ ]
+3:[3 Drake Intro_JavaScript 421
+ ]
+4:[4 Ahmed Assembly 231
+ ]
+5:[empty]
+6:[6 AJ Swift 411
+ ]
+7:[7 Jack Java 151
+ ]
+8:[empty]
+9:[empty]
+10:[10 Bob Game_Development 441
+ ]
+11:[empty]
+12:[empty]
+13:[empty]
+14:[empty]
+15:[empty]
+16:[empty]
+17:[empty]
+18:[empty]
+19:[empty]
+20:[empty]
+21:[empty]
+22:[empty]
+23:[empty]
+24:[empty]
+25:[empty]
+26:[empty]
+27:[empty]
+28:[empty]
+29:[empty]
+30:[empty]
+31:[empty]
+32:[empty]
+33:[empty]
+34:[empty]
+35:[empty]
+36:[36 Daniel F# 110
+ ]
+MENU: ---- 
+1 Add an element
+2 Find an element
+3 Delete an element
+4 Display the table
+5 Save the table to a file
+6 Quit
+5
+Saved the updated table in newout.txt
+MENU: ---- 
+1 Add an element
+2 Find an element
+3 Delete an element
+4 Display the table
+5 Save the table to a file
+6 Quit
+6
+bye
+ 
