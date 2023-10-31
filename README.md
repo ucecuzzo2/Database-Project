@@ -16,8 +16,7 @@ This C++ project implements a database for class information using a Hash table 
 
 - **Save to File:** Users can save the current state of the database to a file, allowing data persistence between program runs.
 
-## Dependencies
-This project uses C++ and standard libraries. Ensure you have a C++ compiler installed on your system.
+##Bruh
 
 ## Author
 [Gerald Cordero]
