@@ -1,5 +1,3 @@
-Certainly, here's a sample `@readme` file for your database project implemented with a Hash table data structure and linked list in C++:
-
 # Class Information Database
 
 ## Overview
@@ -15,8 +13,6 @@ This C++ project implements a database for class information using a Hash table 
   - Delete: Remove a class record from the database.
 
 - **Save to File:** Users can save the current state of the database to a file, allowing data persistence between program runs.
-
-##Bruh
 
 ## Author
 [Gerald Cordero]
