@@ -26,14 +26,6 @@ This C++ project implements a database for class information using a Hash table 
    ```shell
    ./class_database
    ```
-4. Follow the on-screen instructions to perform database operations:
-   - Enter 'C' to create a new class record.
-   - Enter 'R' to read class information.
-   - Enter 'U' to update class information.
-   - Enter 'D' to delete a class record.
-   - Enter 'S' to save the database to a file.
-   - Enter 'Q' to quit the program.
-
 ## Dependencies
 This project uses C++ and standard libraries. Ensure you have a C++ compiler installed on your system.
 
@@ -50,8 +42,8 @@ Contributions and improvements are welcome. If you'd like to contribute, please 
 This project is under the [MIT License](LICENSE). You are free to use, modify, and distribute the code, but please provide appropriate attribution.
 
 ## Author
-[Your Name]
-[Your Email]
+[Gerald Cordero]
+[geraldcordero08@gmail.com]
 
 Please replace `[Your Name]` and `[Your Email]` with your actual name and email address.
 
